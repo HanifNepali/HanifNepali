@@ -18,7 +18,7 @@
 
 ## 💼 About Me
 
-- Freelance Full-Stack Engineer, delivering frontend, backend, and cloud infrastructure solutions for clients internationally
+- Full-Stack Engineer, delivering frontend, backend, and cloud infrastructure solutions for clients internationally
 - Previously **Senior Software Engineer** at **Leapfrog Technology**, building a workflow automation platform serving 1M+ users annually
 - Domain experience across **Healthcare & Clinical Operations**, **Enterprise Operations & Workflow Automation**, and **CMS/Digital Presence**
 - Led engineering pods and mentored engineers through code reviews and internal workshops
