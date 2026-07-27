@@ -16,7 +16,7 @@
 
 ---
 
-### 💼 About Me
+## 💼 About Me
 
 - Freelance Full-Stack Engineer, delivering frontend, backend, and cloud infrastructure solutions for clients internationally
 - Previously **Senior Software Engineer** at **Leapfrog Technology**, building a workflow automation platform serving 1M+ users annually
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend**
 
@@ -64,14 +64,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-</p>
-
-**Testing**
-
-<p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
 </p>
 
 **AI / ML**
